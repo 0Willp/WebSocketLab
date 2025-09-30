@@ -22,7 +22,7 @@ Make sure you have Python 3.8 or newer installed.
 git clone https://github.com/0Willp/WebSocketLab 
 ```
 
-``` bashh
+```
 cd WebSocketLab
 
 # For Linux/macOS
