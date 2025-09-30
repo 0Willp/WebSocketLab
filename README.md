@@ -20,6 +20,9 @@ Make sure you have Python 3.8 or newer installed.
 
 ```bash
 git clone https://github.com/0Willp/WebSocketLab 
+```
+
+``` bashh
 cd WebSocketLab
 
 # For Linux/macOS
@@ -31,8 +34,9 @@ python -m venv .venv
 .venv\Scripts\activate
 
 pip install -r requirements.txt
-
 ```
+
+
 
 
 ## 🔗 Primary Resource
