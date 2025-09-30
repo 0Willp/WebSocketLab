@@ -18,6 +18,23 @@ Follow these steps to get the examples up and running on your local machine.
 Prerequisites
 Make sure you have Python 3.8 or newer installed.
 
+```bash
+git clone https://github.com/0Willp/WebSocketLab 
+cd WebSocketLab
+
+# For Linux/macOS
+python3 -m venv .venv
+source .venv/bin/activate
+
+# For Windows
+python -m venv .venv
+.venv\Scripts\activate
+
+pip install -r requirements.txt
+
+```
+
+
 ## 🔗 Primary Resource
 This entire project is guided by the official websockets library documentation, which is a fantastic resource for learning and reference.
 
