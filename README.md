@@ -34,7 +34,14 @@ python -m venv .venv
 .venv\Scripts\activate
 
 pip install -r requirements.txt
+
+# Using pip file
+pip3 install pipenv
+pipenv install
+pipenv shell or pipenv run python websocket.py
 ```
+
+
 
 
 
